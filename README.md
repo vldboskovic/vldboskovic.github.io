@@ -1,13 +1,4 @@
 <html lang="en">
-<head>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
-    h1, h2 { color: #2c3e50; }
-    a { color: #2980b9; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .section { margin-bottom: 30px; }
-  </style>
-</head>
 <body>
   <h1>Vladimir Bošković</h1>
   <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
@@ -44,7 +35,7 @@
   <div class="section">
     <h2>Teaching</h2>
     <ul>
-      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025 </li>
+      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
     </ul>
   </div>
 
