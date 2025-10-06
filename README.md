@@ -34,11 +34,11 @@
     header .site-title {
     display: none; /* hides the default GitHub Pages title */
     }
-    <h1>Vladimir Bošković</h1>
   </style>
 
 </head>
 <body>
+  <h1>Vladimir Bošković</h1>
   <div class="container">
     <!-- Left side: content -->
     <div class="content">
