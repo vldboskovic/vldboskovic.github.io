@@ -38,7 +38,6 @@
 
 </head>
 <body>
-  <h1>Vladimir Bošković</h1>
   <div class="container">
     <!-- Left side: content -->
     <div class="content">
