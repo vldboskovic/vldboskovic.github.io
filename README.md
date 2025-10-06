@@ -13,35 +13,45 @@
   </style>
 </head>
 <body>
-  <h1>Your Name</h1>
-  <p><strong>Position:</strong> Your Title (e.g., PhD Student, Researcher)<br>
-     <strong>Institution:</strong> University / Lab<br>
-     <strong>Email:</strong> you@example.com</p>
+  <h1>Vladimir Bošković</h1>
+  <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
 
   <div class="section">
     <h2>About Me</h2>
-    <p>Write a short academic bio here (research interests, background, etc.).</p>
+    <p>I am a PhD student at IPhT Paris-Saclay supervised by Sanjay Ramassamy and Cédric Boutillier.</p>
+  </div>
+
+  <div class="section">
+    <h2>Preprints</h2>
+    <ul>
+      <li>Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, arXiv:2408.00457, 2024.</li>
+    </ul>
   </div>
 
   <div class="section">
     <h2>Publications</h2>
     <ul>
-      <li>Author, A. (2025). <em>Paper Title</em>. Journal/Conference.</li>
-      <li>Author, B. (2024). <em>Another Paper</em>. Journal/Conference.</li>
+      <li>Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Talks</h2>
+    <ul>
+      <li>42 years of Alternating Sign Matrices, Ljubljana, September 2025.</li>
+      <li>Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
+      <li>Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
+      <li>Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
     </ul>
   </div>
 
   <div class="section">
     <h2>Teaching</h2>
     <ul>
-      <li>Course 1 – Year</li>
-      <li>Course 2 – Year</li>
+      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant January - May 2025 </li>
     </ul>
   </div>
 
-  <div class="section">
-    <h2>Contact</h2>
-    <p></p>
-  </div>
+
 </body>
 </html>
