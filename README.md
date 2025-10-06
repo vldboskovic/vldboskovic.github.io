@@ -1,8 +1,5 @@
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Your Name - Academic Website</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
     h1, h2 { color: #2c3e50; }
@@ -47,7 +44,7 @@
   <div class="section">
     <h2>Teaching</h2>
     <ul>
-      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant January - May 2025 </li>
+      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025 </li>
     </ul>
   </div>
 
