@@ -41,7 +41,7 @@
 
   <div class="section">
     <h2>Contact</h2>
-    <p>Email is the best way to reach me.</p>
+    <p></p>
   </div>
 </body>
 </html>
