@@ -78,7 +78,7 @@
 
     <!-- Right side: profile picture -->
     <div>
-      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height=45% width=45%>
+      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height=50% width=50%>
     </div>
   </div>
 </body>
