@@ -20,8 +20,8 @@
     }
 
     .profile-pic {
-      max-width: 20px;
-      border-radius: 5px;
+      max-width: 200px;
+      border-radius: 10px;
     }
 
     .section {
@@ -79,7 +79,7 @@
 
     <!-- Right side: profile picture -->
     <div>
-      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic">
+      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="48" width="48">
     </div>
   </div>
 </body>
