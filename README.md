@@ -4,7 +4,8 @@
     body {
       font-family: Arial, sans-serif;
       max-width: 800px;
-      margin: 0 auto;
+      margin-left: 20px;
+      margin-right: 0;
       line-height: 1.6;
     }
 
