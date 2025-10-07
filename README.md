@@ -82,7 +82,7 @@
 
     <!-- Right side: profile picture -->
     <div>
-      <img src="your-photo.jpg" alt="Vladimir Bošković" class="profile-pic">
+      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic">
     </div>
   </div>
 </body>
