@@ -20,19 +20,16 @@
     }
 
     .profile-pic {
-      max-width: 50px;
-      border-radius: 10px;
+      max-width: 20px;
+      border-radius: 5px;
     }
 
     .section {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     h2 {
       margin-top: 0;
-    }
-    header .site-title {
-    display: none; /* hides the default GitHub Pages title */
     }
   </style>
 
@@ -45,7 +42,7 @@
 
       <div class="section">
         <h2>About Me</h2>
-        <p>I am a PhD student at IPhT Paris-Saclay supervised by Sanjay Ramassamy and Cédric Boutillier.</p>
+        <p>I am a PhD student at IPhT Paris-Saclay supervised by Sanjay Ramassamy and Cédric Boutillier. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
       </div>
 
       <div class="section">
