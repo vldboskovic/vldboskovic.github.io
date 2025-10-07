@@ -47,14 +47,14 @@
       <div class="section">
         <h2>Preprints</h2>
         <ul>
-          <li>Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, arXiv:2408.00457, 2024.</li>
+          <li>Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, <a href="https://arxiv.org/abs/2408.00457">arXiv:2408.00457</a>, 2024.</li>
         </ul>
       </div>
 
       <div class="section">
         <h2>Publications</h2>
         <ul>
-          <li>Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023.</li>
+          <li>Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023.<a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
         </ul>
       </div>
 
