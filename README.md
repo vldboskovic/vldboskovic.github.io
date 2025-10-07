@@ -3,8 +3,8 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin-left: 20px;
+      max-width: 900px;
+      margin-left: 10px;
       margin-right: 0;
       line-height: 1.6;
     }
