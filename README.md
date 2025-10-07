@@ -42,7 +42,7 @@
 
       <div class="section">
         <h2>About Me</h2>
-        <p>I am a PhD student at IPhT Paris-Saclay supervised by Sanjay Ramassamy and Cédric Boutillier. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
+        <p>I am a PhD student at <p><a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a></p> supervised by Sanjay Ramassamy and Cédric Boutillier. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
       </div>
 
       <div class="section">
