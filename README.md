@@ -41,8 +41,7 @@
       <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
 
       <div class="section">
-        <h2>About Me</h2>
-        <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by Sanjay Ramassamy and Cédric Boutillier. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
+        <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a> . I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
       </div>
 
       <div class="section">
@@ -79,7 +78,7 @@
 
     <!-- Right side: profile picture -->
     <div>
-      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="300" width="300">
+      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height=45% width=45%>
     </div>
   </div>
 </body>
