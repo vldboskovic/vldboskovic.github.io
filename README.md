@@ -41,21 +41,21 @@
       <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
 
       <div class="section">
-        <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a> . I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
+        <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
       </div>
 
       <div class="section">
         <h2>Preprints</h2>
-        <ul>
+        <ol start="2">
           <li>Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, <a href="https://arxiv.org/abs/2408.00457">arXiv:2408.00457</a>, 2024.</li>
-        </ul>
+        </ol>
       </div>
 
       <div class="section">
         <h2>Publications</h2>
-        <ul>
-          <li>Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023.<a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
-        </ul>
+        <ol>
+          <li>Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
+        </ol>
       </div>
 
       <div class="section">
