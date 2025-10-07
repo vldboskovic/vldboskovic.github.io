@@ -17,7 +17,7 @@
 
     .content {
       flex: 1;
-      padding-right: 20px;
+      padding-right: 40px;
     }
 
     .profile-pic {
