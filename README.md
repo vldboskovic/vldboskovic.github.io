@@ -4,7 +4,7 @@
     body {
       font-family: Arial, sans-serif;
       max-width: 900px;
-      margin-left: 20px;
+      margin-left: 40px;
       margin-right: 0;
       line-height: 1.6;
     }
@@ -23,6 +23,7 @@
     .profile-pic {
       max-width: 200px;
       border-radius: 10px;
+      margin-left: 40px;
     }
 
     .section {
