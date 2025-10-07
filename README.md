@@ -20,7 +20,7 @@
     }
 
     .profile-pic {
-      max-width: 200px;
+      max-width: 50px;
       border-radius: 10px;
     }
 
