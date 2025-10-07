@@ -3,7 +3,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 900px;
+      max-width: 1200px;
       margin: 0 auto;
       line-height: 1.6;
     }
@@ -78,7 +78,7 @@
 
     <!-- Right side: profile picture -->
     <div>
-      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height=50% width=50%>
+      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="350" width="350">
     </div>
   </div>
 </body>
