@@ -3,9 +3,9 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 1600px;
-      margin-left: 20px;
-      margin-right: 0;
+      max-width: 1400px;   /* wider text on large screens */
+      margin: 0 auto;      /* center content */
+      padding: 0 20px;
       line-height: 1.6;
     }
 
@@ -16,12 +16,12 @@
     }
 
     .content {
-      flex: 1;
+      flex: 2;             /* take more space than the picture */
       padding-right: 40px;
     }
 
     .profile-pic {
-      max-width: 200px;
+      max-width: 250px;
       border-radius: 10px;
       margin-left: 40px;
     }
@@ -33,31 +33,41 @@
     h2 {
       margin-top: 0;
     }
+
+    /* Responsive layout for smaller screens */
     @media (max-width: 768px) {
       .container {
-        flex-direction: column;  /* stack text & picture */
-        align-items: center;     /* center elements */
+        flex-direction: column;
+        align-items: flex-start;
       }
 
       .content {
-        padding-right: 0;       /* remove side padding */
+        padding-right: 0;
       }
 
       .profile-pic {
-        margin-left: 0;
-        margin-top: 20px;
-        max-width: 80%;         /* image shrinks nicely */
+        margin: 20px 0 0 0;
+        max-width: 80%;
         height: auto;
       }
-      
-  </style>
 
+      /* Move picture below the email */
+      .email-block + .profile-container {
+        order: 1;
+      }
+    }
+  </style>
 </head>
 <body>
   <div class="container">
     <!-- Left side: content -->
     <div class="content">
-      <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
+      <p class="email-block"><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
+
+      <!-- Profile picture appears after email on mobile -->
+      <div class="profile-container">
+        <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="300" width="300">
+      </div>
 
       <div class="section">
         <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
@@ -105,11 +115,6 @@
           <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
         </ul>
       </div>
-    </div>
-
-    <!-- Right side: profile picture -->
-    <div>
-      <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="300" width="300">
     </div>
   </div>
 </body>
