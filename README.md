@@ -71,6 +71,18 @@
       </div>
 
       <div class="section">
+        <h2>Conferences</h2>
+        <ul>
+          <li>SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
+          <li>erfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
+          <li>Journées de combinatoire de Bordeaux, February 2025.</li>
+          <li>Summit 240, Budapest, July 2024. </li>
+          <li>Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March-June 2024.</li>
+          <li>DIMERS ANR final conference, Paris, July 2023. </li>
+        </ul>
+      </div>
+
+      <div class="section">
         <h2>Teaching</h2>
         <ul>
           <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
