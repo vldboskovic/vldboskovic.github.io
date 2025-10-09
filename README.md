@@ -19,7 +19,7 @@
     }
 
     .about-text {
-      flex: 2;
+      flex: 1.2;
     }
 
     .profile-container {
