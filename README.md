@@ -3,7 +3,8 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin-left: 40px;
+      max-width: 1600px;
+      margin-left: 20px;
       margin-right: 0;
       line-height: 1.6;
     }
@@ -32,6 +33,23 @@
     h2 {
       margin-top: 0;
     }
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;  /* stack text & picture */
+        align-items: center;     /* center elements */
+      }
+
+      .content {
+        padding-right: 0;       /* remove side padding */
+      }
+
+      .profile-pic {
+        margin-left: 0;
+        margin-top: 20px;
+        max-width: 80%;         /* image shrinks nicely */
+        height: auto;
+      }
+      
   </style>
 
 </head>
