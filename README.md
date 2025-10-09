@@ -3,7 +3,6 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 1200px;
       margin-left: 40px;
       margin-right: 0;
       line-height: 1.6;
@@ -74,7 +73,7 @@
         <h2>Conferences</h2>
         <ul>
           <li>SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
-          <li>erfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
+          <li>Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
           <li>Journées de combinatoire de Bordeaux, February 2025.</li>
           <li>Summit 240, Budapest, July 2024. </li>
           <li>Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March-June 2024.</li>
