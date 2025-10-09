@@ -3,7 +3,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 900px;
+      max-width: 1200px;
       margin-left: 40px;
       margin-right: 0;
       line-height: 1.6;
