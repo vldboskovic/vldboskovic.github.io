@@ -66,7 +66,7 @@
     <div class="about-text">
       <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
       line-height: 22px
-      <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures.</p>
+      <p>I am a PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. <p>Here is my <a href="CV - V Boskovic.pdf" target="_blank">CV</a>.</p>
     </div>
     <div class="profile-container">
       <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="250" width="250">
@@ -99,7 +99,7 @@
   </div>
 
   <div class="section">
-    <h2>Conferences</h2>
+    <h2>Conferences attended</h2>
     <ul>
       <li>SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
       <li>Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
