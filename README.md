@@ -1,5 +1,7 @@
 <html lang="en">
 <head>
+  <meta name="keywords" lang="en" content="Vladimir, Boskovic, Boskovic Vladimir, Vladimir Boskovic, Sanjay Ramassamy, math, mathematics,
+Paris, Cedric Boutillier, IPhT" />
   <style>
     body {
       font-family: Arial, sans-serif;
