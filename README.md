@@ -93,7 +93,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Talks</h2>
     <ul>
-      <li>42 years of Alternating Sign Matrices, Ljubljana, September 2025.</li>
+      <li>42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href=VBoskovic - ASMs Ljubljana.pdf>slides</a></li>
       <li>Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
       <li>Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
       <li>Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
