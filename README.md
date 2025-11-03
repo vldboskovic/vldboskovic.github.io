@@ -92,7 +92,7 @@ Paris, Cedric Boutillier, IPhT" />
 
   <div class="section">
     <h2>Talks</h2>
-    <ul style="font-family: monospace; list-style: none; padding: 0;">
+    <ul>
       <li>● Séminaire des doctorants du LMV, Versailles, November 2025.</li>
       <li>○ 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
       <li>● Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
@@ -103,7 +103,7 @@ Paris, Cedric Boutillier, IPhT" />
 
   <div class="section">
     <h2>Conferences attended</h2>
-    <ul style="font-family: monospace; list-style: none; padding: 0;">
+    <ul>
       <li>○ SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
       <li>● Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
       <li>○ Journées de combinatoire de Bordeaux, February 2025.</li>
