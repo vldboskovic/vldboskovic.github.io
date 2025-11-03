@@ -94,9 +94,9 @@ Paris, Cedric Boutillier, IPhT" />
     <h2>Talks</h2>
     <ul style="list-style: none; padding: 0;">
       <li><span style="font-size: 1.2em;">●</span> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
-      <li><span style="font-size: 1.2em;">○</span> 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
+      <li><span style="font-size: 0.8em;">○</span> 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
       <li><span style="font-size: 1.2em;">●</span> Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
-      <li><span style="font-size: 1.2em;">○</span> Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
+      <li><span style="font-size: 0.8em;">○</span> Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
       <li><span style="font-size: 1.2em;">●</span> Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
     </ul>
   </div>
@@ -104,11 +104,11 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Conferences attended</h2>
     <ul style="list-style: none; padding: 0;">
-      <li><span style="font-size: 1.2em;">○</span> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
+      <li><span style="font-size: 0.8em;">○</span> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
       <li><span style="font-size: 1.2em;">●</span> Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
-      <li><span style="font-size: 1.2em;">○</span> Journées de combinatoire de Bordeaux, February 2025.</li>
+      <li><span style="font-size: 0.8em;">○</span> Journées de combinatoire de Bordeaux, February 2025.</li>
       <li><span style="font-size: 1.2em;">●</span> Summit 240, Budapest, July 2024. </li>
-      <li><span style="font-size: 1.2em;">○</span> Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March-June 2024.</li>
+      <li><span style="font-size: 0.8em;">○</span> Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March-June 2024.</li>
       <li><span style="font-size: 1.2em;">●</span> DIMERS ANR final conference, Paris, July 2023. </li>
     </ul>
   </div>
