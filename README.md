@@ -115,8 +115,8 @@ Paris, Cedric Boutillier, IPhT" />
 
   <div class="section">
     <h2>Teaching</h2>
-    <ul>
-      <li>Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
+    <ul style="list-style: none; padding: 0;">
+      <li><span style="font-size: 1.2em;">●</span> Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
     </ul>
   </div>
 </body>
