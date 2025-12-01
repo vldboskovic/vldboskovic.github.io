@@ -92,31 +92,32 @@ Paris, Cedric Boutillier, IPhT" />
 
   <div class="section">
     <h2>Talks</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li><span style="font-size: 1.2em;">●</span> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
-      <li><span style="font-size: 0.8em;">○</span> 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
-      <li><span style="font-size: 1.2em;">●</span> Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
-      <li><span style="font-size: 0.8em;">○</span> Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
-      <li><span style="font-size: 1.2em;">●</span> Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
+    <ul>
+      <li> GSI 2024 Reunion Conference, Lake Arrowhead, December 2025.</li>
+      <li> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
+      <li> 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
+      <li> Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
+      <li> Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
+      <li> Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
     </ul>
   </div>
 
   <div class="section">
     <h2>Conferences attended</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li><span style="font-size: 0.8em;">○</span> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
-      <li><span style="font-size: 1.2em;">●</span> Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
-      <li><span style="font-size: 0.8em;">○</span> Journées de combinatoire de Bordeaux, February 2025.</li>
-      <li><span style="font-size: 1.2em;">●</span> Summit 240, Budapest, July 2024. </li>
-      <li><span style="font-size: 0.8em;">○</span> Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March - June 2024.</li>
-      <li><span style="font-size: 1.2em;">●</span> DIMERS ANR final conference, Paris, July 2023. </li>
+    <ul>
+      <li> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
+      <li> Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
+      <li> Journées de combinatoire de Bordeaux, February 2025.</li>
+      <li> Summit 240, Budapest, July 2024. </li>
+      <li> Long Program: Geometry, Statistical Mechanics, and Integrability, IPAM, March - June 2024.</li>
+      <li> DIMERS ANR final conference, Paris, July 2023. </li>
     </ul>
   </div>
 
   <div class="section">
     <h2>Teaching</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li><span style="font-size: 1.2em;">●</span> Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
+    <ul>
+      <li> Introduction to Probability (L2 Sorbonne Université), teaching assistant, January - May 2025.</li>
     </ul>
   </div>
 </body>
