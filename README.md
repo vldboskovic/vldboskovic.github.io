@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="vb2cGd6jLnoSQ9zEQdSYDCURt4nBEpdqc2DZa0NlWVI" />
   <meta name="keywords" lang="en" content="Vladimir, Boskovic, Boskovic Vladimir, Vladimir Boskovic, Sanjay Ramassamy, math, mathematics,
 Paris, Cedric Boutillier, IPhT" />
-  <meta name="google-site-verification" content="vb2cGd6jLnoSQ9zEQdSYDCURt4nBEpdqc2DZa0NlWVI" />
   <style>
     body {
       font-family: Arial, sans-serif;
