@@ -106,6 +106,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Conferences attended</h2>
     <ul>
+      <li> Journées Graphes et Algorithmes, Paris, November 2025. </li>
       <li> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
       <li> Perfectly matched perspectives on statistical mechanics, combinatorics and geometry, CIRM, June 2025.</li>
       <li> Journées de combinatoire de Bordeaux, February 2025.</li>
