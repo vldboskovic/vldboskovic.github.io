@@ -98,7 +98,7 @@ Paris, Cedric Boutillier, IPhT" />
       <li> Drafting Workshop in Discrete Mathematics, Number Theory and Probability, Budapest, January 2026.</li>
       <li> GSI 2024 Reunion Conference, Lake Arrowhead, December 2025.</li>
       <li> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
-      <li> 42 years of Alternating Sign Matrices, Ljubljana, September 2025. <a href="VBoskovic - ASMs Ljubljana.pdf">slides</a></li>
+      <li> 42 years of Alternating Sign Matrices, Ljubljana, September 2025.</li>
       <li> Combinatorics Seminar, Rényi Institute, Budapest, September 2025.</li>
       <li> Séminaire des doctorants, Institut de Mathématique d’Orsay, June 2025.</li>
       <li> Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles, May 2024.</li>
