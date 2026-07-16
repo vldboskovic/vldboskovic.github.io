@@ -80,7 +80,7 @@ Paris, Cedric Boutillier, IPhT" />
   <!-- Other sections below -->
   <div class="section">
     <h2>Preprints</h2>
-    <ol start="2">
+    <ol  reversed start="3">
       <li> Vladimir Bošković: Newton polygons for the non-bipartite dimer model, <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
       <li> Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, <a href="https://arxiv.org/abs/2408.00457">arXiv:2408.00457</a>, 2024.</li>
     </ol>
