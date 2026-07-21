@@ -80,7 +80,8 @@ Paris, Cedric Boutillier, IPhT" />
   <!-- Other sections below -->
   <div class="section">
     <h2>Preprints</h2>
-    <ol  reversed start="3">
+    <ol  reversed start="4">
+      <li> Vladimir Bošković: Flip dynamics on perfect matchings beyond bipartite and planar graphs, <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
       <li> Vladimir Bošković: Newton polygons for the non-bipartite dimer model, <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
       <li> Vladimir Bošković, Balázs Keszegh: Saturation of edge-ordered graphs, <a href="https://arxiv.org/abs/2408.00457">arXiv:2408.00457</a>, 2024.</li>
     </ol>
@@ -89,7 +90,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Publications</h2>
     <ol>
-      <li> Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM J. Discrete Math., 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
+      <li> Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
     </ol>
   </div>
 
