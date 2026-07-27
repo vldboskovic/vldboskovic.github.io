@@ -97,7 +97,6 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Talks</h2>
     <ul>
-      <li> 20th Emléktábla Workshop, Hungary, July 2026.</li>
       <li> Drafting Workshop in Discrete Mathematics, Number Theory and Probability, Budapest, January 2026.</li>
       <li> GSI 2024 Reunion Conference, Lake Arrowhead, December 2025.</li>
       <li> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
@@ -111,6 +110,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Conferences</h2>
     <ul>
+      <li> 20th Emléktábla Workshop, Hungary, July 2026.</li>
       <li> Integrable combinatorics — IMJ-PRG summer school, Paris, June 2026.</li>
       <li> Journées Graphes et Algorithmes, Paris, November 2025. </li>
       <li> SFB Summer School: Discrete Random Structures, Pörtschach am Wörthersee, September 2025.</li>
