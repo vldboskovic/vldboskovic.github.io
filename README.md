@@ -90,13 +90,14 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Publications</h2>
     <ol>
-      <li> Vladimir Bošković, Balázs Keszegh: Saturation of Ordered Graphs, SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
+      <li> Saturation of Ordered Graphs, with Balázs Keszegh. <br> SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
     </ol>
   </div>
 
   <div class="section">
     <h2>Talks</h2>
     <ul>
+      <li> 20th Emléktábla Workshop, Hungary, July 2026.</li>
       <li> Drafting Workshop in Discrete Mathematics, Number Theory and Probability, Budapest, January 2026.</li>
       <li> GSI 2024 Reunion Conference, Lake Arrowhead, December 2025.</li>
       <li> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
