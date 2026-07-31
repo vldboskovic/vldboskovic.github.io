@@ -80,17 +80,17 @@ Paris, Cedric Boutillier, IPhT" />
   <!-- Other sections below -->
   <div class="section">
     <h2>Preprints</h2>
-    <ol  reversed start="4">
-      <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
-      <li> Newton polygons for the non-bipartite dimer model <br> <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
-      <li> Saturation of edge-ordered graphs, with Balázs Keszegh <br> <a href="https://arxiv.org/abs/2408.00457">arXiv:2408.00457</a>, 2024.</li>
+    <ol reversed start="4">
+      <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> Submitted <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
+      <li> Newton polygons for the non-bipartite dimer model <br> Submitted <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
     </ol>
   </div>
 
   <div class="section">
     <h2>Publications</h2>
-    <ol>
-      <li> Saturation of Ordered Graphs, with Balázs Keszegh <br> SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a></li> 
+    <ol reversed start="2">
+      <li> Saturation of edge-ordered graphs, with Balázs Keszegh <br> To appear in The Electronic Journal of Combinatorics, 2026. <a href="https://arxiv.org/abs/2408.00457">arXiv</a></li>
+      <li> Saturation of Ordered Graphs, with Balázs Keszegh <br> SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a>, <a href="https://epubs.siam.org/doi/10.1137/22M1485735">journal</a></li> 
     </ol>
   </div>
 
