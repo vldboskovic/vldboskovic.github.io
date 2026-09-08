@@ -69,7 +69,7 @@ Paris, Cedric Boutillier, IPhT" />
     <div class="about-text">
       <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
 
-      <p>In October 2026, I will start a postdoc position at <a href="https://www.renyi.hu/en">Alfréd Rényi Institute of Mathematics</a> supervised by <a href="https://www.renyi.hu/~tardos/">Gábor Tardos</a> and <a href="https://csikvarip.web.elte.hu/">Péter Csikvári</a>. I completed my PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. 
+      <p>In October 2026, I will start a postdoc position at <a href="https://www.renyi.hu/en">Alfréd Rényi Institute of Mathematics</a> supervised by <a href="https://www.renyi.hu/~tardos/">Gábor Tardos</a> and <a href="https://csikvarip.web.elte.hu/">Péter Csikvári</a>. I completed my PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. <br> I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. 
       <br/>Here is my <a href="CV - VBoskovic nov25.pdf" target="_blank">CV</a>.</p>
     </div>
     <div class="profile-container">
