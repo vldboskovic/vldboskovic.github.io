@@ -89,7 +89,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Publications</h2>
     <ol reversed start="2">
-      <li> Saturation of edge-ordered graphs, with Balázs Keszegh <br> To appear in The Electronic Journal of Combinatorics, 2026. <a href="https://arxiv.org/abs/2408.00457">arXiv</a></li>
+      <li> Saturation of edge-ordered graphs, with Balázs Keszegh <br> The Electronic Journal of Combinatorics, 33(3), #P3.62, 2026. <a href="https://arxiv.org/abs/2408.00457">arXiv</a>, <a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i3p62">journal</a></li>
       <li> Saturation of Ordered Graphs, with Balázs Keszegh <br> SIAM Journal on Discrete Mathematics, 37(2):1118-1141, 2023. <a href="https://arxiv.org/abs/2203.05307">arXiv</a>, <a href="https://epubs.siam.org/doi/10.1137/22M1485735">journal</a></li> 
     </ol>
   </div>
