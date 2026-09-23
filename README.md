@@ -81,8 +81,8 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Preprints</h2>
     <ol reversed start="4">
-      <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> Submitted <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
-      <li> Newton polygons for the non-bipartite dimer model <br> Submitted <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
+      <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
+      <li> Newton polygons for the non-bipartite dimer model <br> <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
     </ol>
   </div>
 
