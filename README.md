@@ -81,7 +81,7 @@ Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
   <div class="section">
     <h2>Preprints</h2>
     <ol reversed start="5">
-      <li> Optimal Bounds on Spanning Tree Embeddings, with Csongoer Beke, Nina Kamčev, and Yiting Wang <br> <a href="https://arxiv.org/abs/2610.08362">arXiv:2610.08362</a>, 2026.</li>
+      <li> Optimal Bounds on Spanning Tree Embeddings, with Csongor Beke, Nina Kamčev, and Yiting Wang <br> <a href="https://arxiv.org/abs/2610.08362">arXiv:2610.08362</a>, 2026.</li>
       <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
       <li> Newton polygons for the non-bipartite dimer model <br> <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
     </ol>
@@ -111,7 +111,7 @@ Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
   <div class="section">
     <h2>Conferences</h2>
     <ul>
-      <li> Statistical Mechanics and Combinatorics of Discrete Planar Structures, ESI Vienna, September - Octover 2026.</li>
+      <li> Statistical Mechanics and Combinatorics of Discrete Planar Structures, ESI Vienna, September - October 2026.</li>
       <li> 20th Emléktábla Workshop, Hungary, July 2026.</li>
       <li> Integrable combinatorics — IMJ-PRG summer school, Paris, June 2026.</li>
       <li> Journées Graphes et Algorithmes, Paris, November 2025. </li>
