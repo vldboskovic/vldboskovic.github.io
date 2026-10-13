@@ -2,7 +2,7 @@
 <head>
   <meta name="google-site-verification" content="vb2cGd6jLnoSQ9zEQdSYDCURt4nBEpdqc2DZa0NlWVI" />
   <meta name="keywords" lang="en" content="Vladimir, Boskovic, Boskovic Vladimir, Vladimir Boskovic, Sanjay Ramassamy, math, mathematics,
-Paris, Cedric Boutillier, IPhT" />
+Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -69,7 +69,7 @@ Paris, Cedric Boutillier, IPhT" />
     <div class="about-text">
       <p><strong>Email:</strong> vladimir.boskovic at ipht dot fr</p>
 
-      <p>In October 2026, I will start a postdoc position at <a href="https://www.renyi.hu/en">Alfréd Rényi Institute of Mathematics</a> supervised by <a href="https://www.renyi.hu/~tardos/">Gábor Tardos</a> and <a href="https://csikvarip.web.elte.hu/">Péter Csikvári</a>. I completed my PhD student at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> supervised by <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. <br> I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. 
+      <p>I am a postdoctoral researcher at <a href="https://www.renyi.hu/en">Alfréd Rényi Institute of Mathematics</a> supervised by <a href="https://www.renyi.hu/~tardos/">Gábor Tardos</a> and <a href="https://csikvarip.web.elte.hu/">Péter Csikvári</a>. I completed my PhD in September 2026 at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> under the supervision of <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. <br> I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. 
       <br/>Here is my <a href="CV - VBoskovic nov25.pdf" target="_blank">CV</a>.</p>
     </div>
     <div class="profile-container">
@@ -80,7 +80,8 @@ Paris, Cedric Boutillier, IPhT" />
   <!-- Other sections below -->
   <div class="section">
     <h2>Preprints</h2>
-    <ol reversed start="4">
+    <ol reversed start="5">
+      <li> Optimal Bounds on Spanning Tree Embeddings, with Csongoer Beke, Nina Kamčev, and Yiting Wang <br> <a href="https://arxiv.org/abs/2610.08362">arXiv:2610.08362</a>, 2026.</li>
       <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
       <li> Newton polygons for the non-bipartite dimer model <br> <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
     </ol>
@@ -110,6 +111,7 @@ Paris, Cedric Boutillier, IPhT" />
   <div class="section">
     <h2>Conferences</h2>
     <ul>
+      <li> Statistical Mechanics and Combinatorics of Discrete Planar Structures, ESI Vienna, September - Octover 2026.</li>
       <li> 20th Emléktábla Workshop, Hungary, July 2026.</li>
       <li> Integrable combinatorics — IMJ-PRG summer school, Paris, June 2026.</li>
       <li> Journées Graphes et Algorithmes, Paris, November 2025. </li>
