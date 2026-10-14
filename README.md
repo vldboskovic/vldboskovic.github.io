@@ -80,7 +80,8 @@ Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
   <!-- Other sections below -->
   <div class="section">
     <h2>Preprints</h2>
-    <ol reversed start="5">
+    <ol reversed start="6">
+      <li> Saturation and semisaturation of oriented graphs, with Balázs Keszegh <br> <a href="https://arxiv.org/abs/2610.18600">arXiv:2610f.18600</a>, 2026.</li>
       <li> Optimal Bounds on Spanning Tree Embeddings, with Csongor Beke, Nina Kamčev, and Yiting Wang <br> <a href="https://arxiv.org/abs/2610.08362">arXiv:2610.08362</a>, 2026.</li>
       <li> Flip dynamics on perfect matchings beyond bipartite and planar graphs <br> <a href="https://arxiv.org/abs/2607.16101">arXiv:2607.16101</a>, 2026.</li>
       <li> Newton polygons for the non-bipartite dimer model <br> <a href="https://arxiv.org/abs/2607.07503">arXiv:2607.07503</a>, 2026.</li>
