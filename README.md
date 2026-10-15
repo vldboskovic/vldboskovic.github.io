@@ -70,7 +70,7 @@ Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
       <p><strong>Email:</strong> boskovic at renyi dot hu</p>
 
       <p>I am a postdoctoral researcher at <a href="https://www.renyi.hu/en">Alfréd Rényi Institute of Mathematics</a> supervised by <a href="https://www.renyi.hu/~tardos/">Gábor Tardos</a> and <a href="https://csikvarip.web.elte.hu/">Péter Csikvári</a>. I completed my PhD in September 2026 at <a href="https://www.ipht.fr/en/">IPhT Paris-Saclay</a> under the supervision of <a href="https://www.normalesup.org/~ramassamy/index.html.en">Sanjay Ramassamy</a> and <a href="https://perso.lpsm.paris/~boutillier/">Cédric Boutillier</a>. <br> I am working on combinatorial and geometric aspects of the non-bipartite dimer model. Besides that, I am also interested in extremal combinatorics, in particular saturation problems for various ordered structures. 
-      <br/>Here is my <a href="CV - VBoskovic nov25.pdf" target="_blank">CV</a>.</p>
+      <br/>Here is my <a href="CV_VBoskovic.pdf" target="_blank">CV</a>.</p>
     </div>
     <div class="profile-container">
       <img src="slikaVB.webp" alt="Vladimir Bošković" class="profile-pic" height="250" width="250">
