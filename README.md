@@ -99,6 +99,8 @@ Paris, Cedric Boutillier, IPhT, Gabor Tardos, Peter Csikvari" />
   <div class="section">
     <h2>Talks</h2>
     <ul>
+      <li> Combinatorics Seminar, Rényi Institute, Budapest, November 2026.</li>
+      <li> PhD defense, IPhT Paris-Saclay, September 2026.</li>
       <li> Drafting Workshop in Discrete Mathematics, Number Theory and Probability, Budapest, January 2026.</li>
       <li> GSI 2024 Reunion Conference, Lake Arrowhead, December 2025.</li>
       <li> Séminaire des doctorants du LMV, Versailles, November 2025.</li>
